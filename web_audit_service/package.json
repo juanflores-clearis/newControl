@@ -1,0 +1,12 @@
+{
+  "name": "web-audit-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servicio Node para auditoria automatizada de sitios web",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.41.0"
+  }
+}

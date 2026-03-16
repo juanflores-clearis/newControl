@@ -1,0 +1,12 @@
+{
+  "name": "newcontrol-e2e",
+  "version": "1.0.0",
+  "description": "End-to-end tests for NewControl",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.0",
+    "@types/node": "^20.11.0"
+  }
+}

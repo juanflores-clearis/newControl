@@ -1,0 +1,139 @@
+/* Variables de colores Clearis — aliases de las variables canónicas definidas en header.php */
+:root {
+	/* Aliases semánticos Clearis → variables canónicas */
+	--clearis-primary: var(--primary);          /* #2E9935 */
+	--clearis-secondary: var(--primary-muted);  /* #94A06F */
+	--clearis-accent: var(--primary-light);     /* #A2C551 */
+	--clearis-lime: var(--primary-lime);        /* #B9D477 */
+	--clearis-olive: var(--primary-olive);      /* #B5C76A */
+	--clearis-dark: #000000;        /* también definido en header.php :root */
+	--clearis-darker: #000000;
+	--clearis-white: #FFFFFF;
+	--clearis-text: #333333;
+	--clearis-light: #F1F6EA;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	color: var(--clearis-text);
+}
+
+main {
+	flex: 1; /* Empuja el footer hacia abajo si el contenido es corto */
+}
+
+/* Estilos del header */
+.header-clearis {
+	background: var(--clearis-primary);
+	border-bottom: 3px solid var(--clearis-accent);
+	padding: 1rem 0;
+}
+
+.header-clearis .navbar-brand {
+	color: white;
+	font-weight: 500;
+	font-size: 1.5rem;
+}
+
+/* Estilos de navegación */
+.nav-clearis .nav-link {
+	color: rgba(255, 255, 255, 0.9) !important;
+	padding: 0.5rem 1rem;
+	margin: 0 0.2rem;
+	border-radius: 4px;
+	transition: all 0.3s ease;
+}
+
+.nav-clearis .nav-link:hover {
+	background-color: rgba(255, 255, 255, 0.1);
+	color: white !important;
+}
+
+.nav-clearis .nav-link.active {
+	background-color: white !important;
+	color: var(--clearis-primary) !important;
+	font-weight: 500;
+}
+
+/* Animaciones y efectos */
+tr.highlight td {
+	animation: highlightRow 4s ease-in-out;
+}
+
+@keyframes highlightRow {
+	0% { background-color: var(--clearis-light); }
+	100% { background-color: transparent; }
+}
+
+.fade-out {
+	opacity: 0;
+	transition: opacity 0.4s ease-out;
+}
+
+/* Personalizaciones de Bootstrap */
+.navbar-dark .nav-link.active {
+	background-color: rgba(255, 255, 255, 0.1);
+	border-radius: 0.25rem;
+}
+
+/* Personalización de Bootstrap */
+.bg-clearis {
+	background-color: var(--clearis-primary);
+}
+
+.btn-clearis {
+	background-color: var(--clearis-primary);
+	border-color: var(--clearis-primary);
+	color: var(--clearis-white);
+}
+
+.btn-clearis:hover {
+	background-color: var(--clearis-secondary);
+	border-color: var(--clearis-secondary);
+	color: var(--clearis-white);
+}
+
+.navbar-clearis {
+	background-color: var(--clearis-primary);
+}
+
+.navbar-clearis .navbar-brand,
+.navbar-clearis .nav-link {
+	color: var(--clearis-white);
+}
+
+.navbar-clearis .nav-link:hover {
+	color: var(--clearis-light);
+}
+
+.navbar-clearis .nav-link.active {
+	background-color: var(--clearis-secondary);
+	color: var(--clearis-white) !important;
+	border-radius: 0.25rem;
+}
+
+/* Estilos de tabla */
+.table {
+	border-collapse: collapse;
+}
+
+.table td {
+	border: none;
+	border-bottom: 1px solid #dee2e6;
+	vertical-align: middle;
+}
+
+.table tbody tr:nth-child(odd) td {
+	background-color: var(--clearis-light);
+}
+
+.table tbody tr:hover {
+	background-color: rgba(46, 153, 53, 0.08); /* clearis-primary con opacidad */
+}

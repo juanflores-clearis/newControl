@@ -1,0 +1,596 @@
+{
+    "clearis.eu": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-04-29"
+    },
+    "latiendadelagricultor.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-03"
+    },
+    "inorme.eu": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-30"
+    },
+    "farmaciareche.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-11-24"
+    },
+    "mojante.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-06"
+    },
+    "farmacia.center": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-04-21"
+    },
+    "farmaciamas.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2029-12-17"
+    },
+    "latiendadelosdominios.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-17"
+    },
+    "fluroxipir.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-08"
+    },
+    "tiendadelagricultor.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-19"
+    },
+    "diflufenican.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-06"
+    },
+    "diclofop.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-06"
+    },
+    "elchurumbel.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-20"
+    },
+    "latiendadelosdominios.net": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-07-01"
+    },
+    "soydecampo.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-10-25"
+    },
+    "andalucia.tienda": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-07-01"
+    },
+    "best-tic.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-01-12"
+    },
+    "residenciageriatricalatorre.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-04-25"
+    },
+    "latiendadelagricultor.net": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-03"
+    },
+    "gestionaasesores.com": {
+        "avisado_90": true,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-02-21"
+    },
+    "debase.biz": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-06-06"
+    },
+    "24h.tienda": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-06-19"
+    },
+    "biamonte.biz": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-03"
+    },
+    "iasesor.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-10-27"
+    },
+    "byraudit.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-02-25"
+    },
+    "oxifluorfen.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-06"
+    },
+    "mojante.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-06"
+    },
+    "diflufenican.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-06"
+    },
+    "elchurumbel.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-20"
+    },
+    "captan.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-06"
+    },
+    "debase.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-02"
+    },
+    "inorme.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-29"
+    },
+    "biamonte.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-10-17"
+    },
+    "diclofop.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-06"
+    },
+    "bulevarmoda.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-08"
+    },
+    "latiendadelagricultor.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-03"
+    },
+    "best-tic.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-01-12"
+    },
+    "latiendadelosdominios.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-17"
+    },
+    "metaldehido.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-06"
+    },
+    "fluroxipir.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-08"
+    },
+    "modadeespa\u00f1a.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-06-17"
+    },
+    "farmaciamas.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2029-12-17"
+    },
+    "vinodelpais.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-09-03"
+    },
+    "clearis.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-01-17"
+    },
+    "clearisapp.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-10-04"
+    },
+    "soydecampo.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-10-25"
+    },
+    "tiendadelagricultor.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-19"
+    },
+    "iasesor.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-07-09"
+    },
+    "elzalandro.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-11-14"
+    },
+    "farmaciareche.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-10-09"
+    },
+    "raudit.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-03-18"
+    },
+    "byraudit.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-02-25"
+    },
+    "24h.viajes": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-06-19"
+    },
+    "paraisodelpaladar.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-25"
+    },
+    "paraisodelpaladar.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-25"
+    },
+    "vinodelpais.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-09-03"
+    },
+    "andalucia.moda": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-07-17"
+    },
+    "latiendadelagricultor.mobi": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-07-12"
+    },
+    "latiendadelagricultor.eu": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-07-11"
+    },
+    "necesitounaalarma.com": {
+        "avisado_90": true,
+        "avisado_30": true,
+        "avisado_7": true,
+        "fecha": "2025-12-28"
+    },
+    "atrapaunladron.com": {
+        "avisado_90": true,
+        "avisado_30": true,
+        "avisado_7": true,
+        "fecha": "2025-12-28"
+    },
+    "atrapaunladron.es": {
+        "avisado_90": true,
+        "avisado_30": true,
+        "avisado_7": true,
+        "fecha": "2025-12-28"
+    },
+    "grupoclearis.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-03-19"
+    },
+    "grupoclearis.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-03-19"
+    },
+    "aceitebelmonte.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-27"
+    },
+    "aceitebelmonte.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-27"
+    },
+    "ribasti.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-06-29"
+    },
+    "ribasti.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-06-29"
+    },
+    "tufarmaceutico.app": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-03"
+    },
+    "ra8farmacia.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-10-29"
+    },
+    "zalema.net": {
+        "avisado_90": true,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-04-19"
+    },
+    "latiendadelagricultor.pt": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-07-11"
+    },
+    "asegurameonline.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-01-17"
+    },
+    "cerrosantuario.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-09"
+    },
+    "farmaciajardin.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-16"
+    },
+    "farmaciajardin.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-16"
+    },
+    "parafarmaciaalgeciras.es": {
+        "avisado_90": true,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-03-22"
+    },
+    "parafarmaciabahiadelrosario.es": {
+        "avisado_90": true,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-03-10"
+    },
+    "macrofiestadelrosario.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-10-17"
+    },
+    "macrofiestadelrosario.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-10-17"
+    },
+    "medicoesteticabaza.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-11-06"
+    },
+    "sekuereme.app": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-01-16"
+    },
+    "sekuereme.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2027-01-16"
+    },
+    "delemusdoria.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-04-29"
+    },
+    "betis.app": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-14"
+    },
+    "realbetis.app": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-05-14"
+    },
+    "deeppresta.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-27"
+    },
+    "deeppresta.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-27"
+    },
+    "prestadeep.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-27"
+    },
+    "prestadeep.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-27"
+    },
+    "thedeeppresta.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-27"
+    },
+    "thedeeppresta.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-08-27"
+    },
+    "farmaciaalgeciras.es": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-09-03"
+    },
+    "radouanebuilding.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-10-11"
+    },
+    "clearis.net": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-11-26"
+    },
+    "clearis.info": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-11-26"
+    },
+    "horubla.com": {
+        "avisado_90": true,
+        "avisado_30": true,
+        "avisado_7": true,
+        "fecha": "2026-01-09"
+    },
+    "horubla.es": {
+        "avisado_90": true,
+        "avisado_30": true,
+        "avisado_7": true,
+        "fecha": "2026-01-09"
+    },
+    "policialocalbaza.com": {
+        "avisado_90": false,
+        "avisado_30": false,
+        "avisado_7": false,
+        "fecha": "2026-12-22"
+    }
+}
